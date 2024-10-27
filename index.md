@@ -1,4 +1,4 @@
 ---
-title: LED Playground
+title: Home
 ---
 
