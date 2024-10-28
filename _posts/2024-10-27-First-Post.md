@@ -1,5 +1,5 @@
 ---
-title: First Post
+title: First Post - Motivations and Intentions
 date: 2024-10-27
 ---
 
