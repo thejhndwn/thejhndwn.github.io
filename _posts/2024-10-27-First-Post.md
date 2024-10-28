@@ -3,7 +3,7 @@ title: First Post - Motivations and Intentions
 date: 2024-10-27
 ---
 
-I need to go pick up my brother from the airport so i'll have to make this quick. I'm creating this blog PRIMARILYj because I was inspired by [Sholto Douglas' blog](https://sholtodouglas.github.io/) as well as many others. In fact I already had a blog which should still be up, hosted on Blogger, which was more of a personal diary.
+I need to go pick up my brother from the airport so i'll have to make this quick. I'm creating this blog PRIMARILY because I was inspired by [Sholto Douglas' blog](https://sholtodouglas.github.io/) as well as many others. In fact I already had a blog which should still be up, hosted on Blogger, which was more of a personal diary.
 
 I am replacing its intention with this one - somewhere I can post my thoughts and have my own space. Primarily to keep my work and thoughts in an archive for myself and other interested parties, if they exist. 
 I always asked myself what exactly is research and what is the meaning of life. Surely the meaning of life can't be to be stuck behind a book or a computer trying to advance humanity, sacrificing one's own life for the betterment of mankind which will never be recognized. Noble, but sad. 
