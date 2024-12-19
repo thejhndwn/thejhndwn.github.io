@@ -1,0 +1,1 @@
+I am afriad to fail. I hate failing. I am incredibly embarassesd by failure. It's one of my greatest strengths in that it pushes me be better. It's also one of my greatest weaknesses, that I might start something and fail and waste my time. 
