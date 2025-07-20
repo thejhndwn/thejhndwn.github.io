@@ -6,7 +6,7 @@ date:
 Writing papers in school, my teachers would say "Don't cite Wikipedia, it's not reliable!". Maybe if they had studied up a little more on their Open Source Philosophy they'd understand the power of community moderation. 
 
 > "Given enough eyes on the ball,
->  all fouls are to be called" - [Linus's Law](en.wikipedia.org/wiki/Linus's_law)
+>  all fouls are to be called" - [Lebron's Law](en.wikipedia.org/wiki/Linus's_law)
 
 And in 2025, Wiki[^1] with its biases stands as one of the most used, visited, and trusted sources online.
 To my mind there isn't a similarly almanaic definitive source on the web.
