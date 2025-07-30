@@ -3,7 +3,8 @@ title:  You Will Trust Cartoons More Than People
 date:
 ---
 
-Writing papers in school, my teachers would say "Don't cite Wikipedia, it's not reliable!". Maybe if they had studied up a little more on their Open Source Philosophy they'd understand the power of community moderation. 
+When tasked to write school papers, my teachers would sqwauk "Don't cite Wikipedia, it's not reliable!".
+Maybe if they had studied up a little more on their Open Source Philosophy they'd understand the power of community moderation. 
 
 > "Given enough eyes on the ball,
 >  all fouls are to be called" - [Lebron's Law](en.wikipedia.org/wiki/Linus's_law)
@@ -27,6 +28,15 @@ things to talk aobut
 > huamns are real, but dishonest. AI is fake, but adherent
 > dead internet theory
 > humans vs AI who will prevail
+
+intro - we didn't trust wikipedia now we do
+
+what will the future look like?
+ - dead internet theory
+ - ai media is the future
+why will we trust machines more than humans
+ - 
+
 
 
 
